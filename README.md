@@ -3,12 +3,12 @@
 A collection of scripts, tools, and projects from my work and learning in cloud security and automation. Content spans Microsoft 365, Azure, AWS, Terraform, Docker, and whatever else I'm currently building or breaking.
 
 ## Background
-I'm a cybersecurity engineer working across identity governance, Microsoft 365 security, and cloud automation. This repo is where I document things I've built, learned, or figured out the hard way.
+I'm a junior cybersecurity engineer working across identity governance, Microsoft 365 security, and cloud automation. This repo is where I document things I've built, learned, or figured out the hard way.
 
 ## What's here
 
 ### sanitized-work-scripts
-Real scripts from production work, sanitized for public sharing. These solve actual problems encountered in enterprise M365 and Azure environments.
+Real scripts from production work, sanitized for public sharing. These solve actual problems I'd encountered in enterprise M365 and Azure environments.
 
 | Script | Description |
 |---|---|
